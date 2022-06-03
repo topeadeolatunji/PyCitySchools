@@ -49,21 +49,21 @@ This is significant because, with the exclusion of grade 9 scores in Thomas High
 
 ### How Replacing Ninth Grade Scores impacted Metrics
 
-# Math and Reading Scores by Grade
+### Math and Reading Scores by Grade
 This likely worsened both math and reading average score for ninth graders across school district as Thomas High School were amongst the high scores in both proficiencies averaging 83%. The other grade levels would not have been impacted. However, exclusion of the ninth grade scores will have minimal impact to the overall 
 passing % for the school district.
 
-# Scores by School Spending
+### Scores by School Spending
 This has no impact to scores by school spending as budget is already allocated for each school
 
-# Scores by School Size
+### Scores by School Size
 Thomas High School is a medium sized school. The removal of ninth graders in Thomas High will improve the avergae scores for medium sized schools, however, there will
 be no impact for both small and large sized schools.
 
-# Scores by School Type
+### Scores by School Type
 Thomas High is a charter school. Charter schools were already performing better than district schools, and the removal of 9th graders will only enhance Thomas High standing and also increase the overall passing % for charter schools
 
-#### Summary
+## Summary
 
 In summary, the report depicts insights on schools performance trends and showcase proficiency scores for math and reading by schools, grade levels, budget bins, school size and type. This will allow the school board to make informed budget allocation decisions and provide adequate funding to top performing schools.
 
